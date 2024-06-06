@@ -42,4 +42,8 @@ Soy un DevOps y Platform Engineer apasionado por la tecnología y el desarrollo 
 - **OpenShift image actualization automatic deployment**  
   URL: [https://github.com/DaniCuesta/OTE-OpenTek-Evolve](https://github.com/DaniCuesta/OTE-OpenTek-Evolve)
 
+## Estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DaniCuesta&show_icons=true&theme=radical)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCuesta&layout=compact&theme=radical)
 
