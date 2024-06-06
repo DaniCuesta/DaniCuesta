@@ -1,17 +1,10 @@
-# ¡Hola! Soy [Tu Nombre] 👋
-
-![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=social)
-![GitHub stars](https://img.shields.io/github/stars/tu-usuario?style=social)
+# ¡Hola! Soy Daniel Cuesta 👋
 
 ## Sobre mí
 
 Soy un DevOps y Platform Engineer apasionado por la tecnología y el desarrollo de infraestructuras robustas y seguras. Me encanta aprender nuevas habilidades y aplicar mis conocimientos en proyectos innovadores.
 
-- 🌱 Actualmente estoy aprendiendo: [Tecnología/Skill que estás aprendiendo]
-- 🔭 Estoy trabajando en: [Proyecto en el que estás trabajando]
 - 💬 Pregúntame sobre: OpenShift, Tekton, GitLab, ArgoCD, Podman/Docker, Shell Scripting, Prometheus, EFK stack, TIG stack, Sealed Secrets, OpenShift Security Features, Helm, vSphere, Istio, Python.
-- 📫 Cómo contactarme: [Tu correo electrónico o red social]
-- ⚡ Dato curioso: [Dato interesante sobre ti]
 
 ## Lenguajes y herramientas
 
@@ -43,19 +36,6 @@ Soy un DevOps y Platform Engineer apasionado por la tecnología y el desarrollo 
 
 ## Proyectos destacados
 
-- [Proyecto 1](https://github.com/tu-usuario/proyecto1): Breve descripción del proyecto 1.
-- [Proyecto 2](https://github.com/tu-usuario/proyecto2): Breve descripción del proyecto 2.
-- [Proyecto 3](https://github.com/tu-usuario/proyecto3): Breve descripción del proyecto 3.
+- [Platform and DevSecOps monitoring]([https://github.com/tu-usuario/proyecto1](https://github.com/DaniCuesta/platform-minikube.git))
+- [OpenShift image actualization automatic deployment]([https://github.com/tu-usuario/proyecto2](https://github.com/DaniCuesta/OTE-OpenTek-Evolve.git))
 
-## Estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
-## Conéctate conmigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/tu-usuario)
-
----
-
-⭐️ Basado en [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
