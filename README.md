@@ -1,8 +1,6 @@
 # ¡Hola! Soy Daniel Cuesta 👋
 
-## Sobre mí
-
-Soy un DevOps y Platform Engineer apasionado por la tecnología y el desarrollo de infraestructuras robustas y seguras. Me encanta aprender nuevas habilidades y aplicar mis conocimientos en proyectos innovadores.
+Soy un DevOps y Platform Engineer apasionado por la tecnología y el desarrollo de infraestructuras robustas y seguras. Me encanta aprender nuevas habilidades y aplicar mis conocimientos en proyectos innovadores. Actualmente, trabajo en NTT DATA y he participado en proyectos de banca, empresas multinacionales de telecomunicaciones e instituciones públicas, mejorando sus procesos de despliegue con DevOps y administración de la plataforma mediante prácticas GitOps.
 
 - 💬 Pregúntame sobre: OpenShift, Tekton, GitLab, ArgoCD, Podman/Docker, Shell Scripting, Prometheus, EFK stack, TIG stack, Sealed Secrets, OpenShift Security Features, Helm, vSphere, Istio, Python.
 
