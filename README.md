@@ -8,6 +8,8 @@ Soy un DevOps y Platform Engineer apasionado por la tecnología y el desarrollo 
 
 ### Platforms & Tools
 ![OpenShift](https://img.shields.io/badge/-OpenShift-black?style=flat-square&logo=redhat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![Tekton](https://img.shields.io/badge/-Tekton-black?style=flat-square&logo=tekton)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-black?style=flat-square&logo=argo)
