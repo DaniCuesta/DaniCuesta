@@ -24,6 +24,8 @@ Soy un DevOps y Platform Engineer apasionado por la tecnología y el desarrollo 
 ![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat-square&logo=kibana)
 ![Telegraf](https://img.shields.io/badge/-Telegraf-black?style=flat-square&logo=telegraf)
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-black?style=flat-square&logo=influxdb)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-black?style=flat-square&logo=opentelemetry)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-black?style=flat-square&logo=dynatrace)
 ![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
 ![Sealed Secrets](https://img.shields.io/badge/-Sealed%20Secrets-black?style=flat-square)
 ![OpenShift Security Features](https://img.shields.io/badge/-OpenShift%20Security-black?style=flat-square&logo=redhat)
