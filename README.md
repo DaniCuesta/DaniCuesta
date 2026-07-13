@@ -38,9 +38,7 @@ Soy un DevOps y Platform Engineer apasionado por la tecnología y el desarrollo 
 
 ## Proyectos destacados
 
-- **Platform and DevSecOps monitoring**  
-  URL: [https://github.com/DaniCuesta/platform-minikube](https://github.com/DaniCuesta/platform-minikube)
-
-- **OpenShift image actualization automatic deployment**  
-  URL: [https://github.com/DaniCuesta/OTE-OpenTek-Evolve](https://github.com/DaniCuesta/OTE-OpenTek-Evolve)
+* **[Platform and DevSecOps monitoring](https://github.com/DaniCuesta/platform-minikube)**
+* **[OpenShift image actualization automatic deployment](https://github.com/DaniCuesta/OTE-OpenTek-Evolve)**
+* **[Openshift CRC OpenTelemetry Tracing Lab](https://github.com/DaniCuesta/crc-otel-tracing-lab)**
 
